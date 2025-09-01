@@ -1,0 +1,25 @@
+{
+  "name": "billingapisuiapp",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushin-gh/BillingAPIsUIApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushin-gh/BillingAPIsUIApp/issues"
+  },
+  "homepage": "https://github.com/rushin-gh/BillingAPIsUIApp#readme",
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
